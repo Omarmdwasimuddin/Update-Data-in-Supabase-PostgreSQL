@@ -112,3 +112,8 @@ export class EmployeeBdController {
 }
 ```
 ---
+
+
+>## OUTPUT
+><img width="713" height="481" alt="image" src="https://github.com/user-attachments/assets/5c93f055-9c77-49e9-a771-6a5c5559ee7b" />
+---
